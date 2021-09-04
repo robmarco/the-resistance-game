@@ -14,9 +14,9 @@
     {
       "name": "Josué de León",
       "url": "https://github.com/kohrong"
-    }, 
+    },
     {
-      "name": "Roberto Marco", 
+      "name": "Roberto Marco",
       "url": "https://github.com/robmarco"
     }
   ],
@@ -29,5 +29,8 @@
   },
   "dependencies": {
     "typescript": "^4.4.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
   }
 }
