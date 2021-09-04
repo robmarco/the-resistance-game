@@ -1,10 +1,10 @@
-import { Player } from "./player"
-import { Poll } from "./poll"
+import { Player } from './player';
+import { Poll } from './poll';
 
 class Mission {
-    players: Player[]
-    suceeds_needed: number
-    polls: Poll[]
+  players: Player[];
+  suceeds_needed: number;
+  polls: Poll[];
 }
 
-export { Mission }
+export { Mission };

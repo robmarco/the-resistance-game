@@ -1,6 +1,6 @@
 class Poll {
-    player_id: number
-    result: boolean
+  player_id: number;
+  result: boolean;
 }
 
-export { Poll }
+export { Poll };

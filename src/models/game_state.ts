@@ -1,7 +1,7 @@
-import { Mission } from "./mission"
+import { Mission } from './mission';
 
 class GameState {
-    missions: Mission[]
+  missions: Mission[];
 }
 
-export { GameState }
+export { GameState };

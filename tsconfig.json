@@ -1,10 +1,10 @@
 {
-    "compilerOptions": {
-      "target": "ES5",
-      "lib": ["es2016", "dom"],
-      "noImplicitAny": false,
-      "outDir": "dist",
-      "noUncheckedIndexedAccess": true
-    },
-    "include": ["src/**/*.ts"]
-  }
+  "compilerOptions": {
+    "target": "ES5",
+    "lib": ["es2016", "dom"],
+    "noImplicitAny": false,
+    "outDir": "dist",
+    "noUncheckedIndexedAccess": true
+  },
+  "include": ["src/**/*.ts"]
+}
